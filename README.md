@@ -22,7 +22,7 @@ I build things at the intersection of AI, developer tools, and education.
 
 ## Competitive Programming
 
-Ranked top 100 globally in multiple competitive programming contestson codechef. Ranked 1 among women a couple of times. Was active on CodeChef and Codeforces during college.
+Ranked top 100 globally in multiple competitive programming contests on codechef during college. Ranked 1 among women a couple of times. Was active on CodeChef and Codeforces during college.
 
 ## Stack
 

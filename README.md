@@ -18,7 +18,7 @@ I build things at the intersection of AI, developer tools, and education.
 
 **Intuit** — Software Engineer 2, TurboTax Live. Owned backend systems serving 10,000+ concurrent sessions. Redesigned core microservices, reduced failed API calls by 40%.
 
-**Bussr Technologies** — Built payment integrations across 4 gateways for transit apps serving 50,000+ monthly transactions across India, Indonesia, and Singapore. Solved dynamic bus routing using operations research solvers.
+**Bussr Technologies** — Built payment integrations across 4 gateways for transit apps serving transactions across India, Indonesia, and Singapore. Solved dynamic bus routing using operations research solvers.
 
 ## Competitive Programming
 

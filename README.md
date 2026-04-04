@@ -1,6 +1,6 @@
 # Hey, I'm Swati 👋
 
-Software Engineer at Salesforce · Co-founder of [thita.ai](https://thita.ai)
+Co-founder of [thita.ai](https://thita.ai), [repowise](https://repowise.dev)
 
 I build things at the intersection of AI, developer tools, and education.
 
@@ -29,5 +29,6 @@ TypeScript · Python · Java · C++ · NextJS · React · Node · Spring · GCP 
 ## Links
 
 - [thita.ai](https://thita.ai)
+- [repowise](https://repowise.dev)
 - [LinkedIn](https://linkedin.com/in/swati-a-201973b7)
 - [X / Twitter](https://x.com/aiandchai)

@@ -6,7 +6,7 @@ I build things at the intersection of AI, developer tools, and education.
 
 ## What I'm working on
 
-**[thita.ai](https://thita.ai)** — AI-powered coding interview prep platform. Real-time mock interviews where an AI interviewer listens to your explanation, watches your code, and gives feedback on both simultaneously. 25,000+ monthly active users, 38% seven-day retention, zero paid acquisition. Built as a two-person team with my co-founder while both of us work full-time.
+**[thita.ai](https://thita.ai)** — AI-powered coding interview prep platform. Real-time mock interviews where an AI interviewer listens to your explanation, watches your code, and gives feedback on both simultaneously. 25,000+ monthly active users, 30% monthly retention, zero paid acquisition.
 
 **[Repowise](https://github.com/repowise-dev/repowise)** — Repowise is a self-hosted codebase intelligence engine that generates structured, queryable documentation from 
   your code. It powers an MCP server so AI coding assistants can access real-time context about your architecture,   

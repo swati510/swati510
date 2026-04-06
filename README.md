@@ -1,6 +1,5 @@
 # Hey, I'm Swati 👋
 
-Co-founder of [thita.ai](https://thita.ai), [repowise](https://repowise.dev)
 
 I build things at the intersection of AI, developer tools, and education.
 

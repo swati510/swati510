@@ -1,33 +1,75 @@
 # Hey, I'm Swati 👋
 
+Currently building tools that make humans and AI work better together.
 
-I build things at the intersection of AI, developer tools, and education.
+## Building
 
-## What I'm working on
+### 🦉 Repowise
 
-**[thita.ai](https://thita.ai)** — AI-powered coding interview prep platform. A real-time AI interviewer listens to your explanation, watches your code, and gives feedback on both simultaneously. Built to close the gap between solving problems alone and performing under pressure with someone watching. Comes with a DSA 99 patterns sheet that maps every problem type to its core technique so you stop grinding blind, a system design hub for structured architectural thinking, and an AI coach that adapts to where you're actually weak. 25,000+ monthly active users, 30% monthly retention.
+Turns messy codebases into something AI and humans can actually understand.
 
-**[Slate](https://tryslate.live)** — Voice-first AI tutor with a live canvas. You talk through a concept, Slate listens and draws alongside you in real time. No typing, no chat bubbles, just a conversation with a tutor who can sketch diagrams, walk through derivations, and adjust explanations based on what you actually said out loud. Built for the student who learns by talking it out, not scrolling through walls of text.
+Repowise continuously maps your architecture, dependencies, conventions, and tribal knowledge into structured documentation and knowledge graphs that AI coding assistants can query.
 
-**[Repowise](https://github.com/repowise-dev/repowise)** —  Self-hosted codebase intelligence engine that generates structured, queryable documentation from your code. Ships with 8 MCP tools so AI coding assistants stop hallucinating about your codebase and work with real context: architecture, dependencies, conventions, all kept current. Every doc carries a confidence score that degrades with git drift, so you know exactly when your context has gone stale and when it's still reliable. Plug it into Cursor, Windsurf, Claude Code, or any MCP-compatible editor and watch your AI assistant go from generic suggestions to codebase-aware answers. Fully offline-capable with local LLM support via Ollama. Your code never leaves your machine, your docs stay accurate, and your AI tools finally understand what they're working with.
+Works with Cursor, Claude Code, Windsurf, and any MCP compatible tool.
 
-## Work
+Fully self hosted.
 
-**Salesforce** — Member of Technical Staff, Field Service / Asset 360. Building with GenAI and Agentic AI, represented Salesforce at TrailblazerDX consulting 50+ enterprise customers.
+Fully offline capable.
 
-**Intuit** — Software Engineer 2, TurboTax Live. Owned backend systems serving 10,000+ concurrent sessions. Redesigned core microservices, reduced failed API calls by 40%.
+Because your AI assistant shouldn't be guessing how your codebase works.
 
-**Bussr Technologies** — Built payment integrations across 4 gateways for transit apps serving transactions across India, Indonesia, and Singapore. Solved dynamic bus routing using operations research solvers.
+→ [github.com/repowise-dev/repowise](https://github.com/repowise-dev/repowise)
 
-## Competitive Programming
+---
 
-Ranked top 100 globally and top 1 among women in multiple competitive programming contests on codechef during college
+### 🎯 Thita AI
 
-TypeScript · Python · Java · C++ · NextJS · React · Node · Spring · GCP · Kubernetes · LLM orchestration · MCP
+Interview prep that feels like an actual interview.
 
-## Links
+An AI interviewer listens to how you think, watches how you code, and gives feedback on both at the same time.
 
-- [thita.ai](https://thita.ai)
-- [repowise](https://repowise.dev)
-- [LinkedIn](https://linkedin.com/in/swati-a-201973b7)
-- [X / Twitter](https://x.com/aiandchai)
+25k+ monthly active users.
+
+Used by engineers preparing for startups, unicorns, and FAANG.
+
+→ [thita.ai](https://thita.ai)
+
+---
+
+### 🎙️ Slate
+
+A voice first AI tutor with a live canvas.
+
+Talk through an idea.
+
+Slate listens, sketches diagrams, explains concepts, and adapts in real time.
+
+Built for people who learn better by thinking out loud.
+
+→ [tryslate.live](https://tryslate.live)
+
+## Random Facts
+
+* Studied at IIIT Kota, worked at big tech.
+* Obsessed with making complex things feel obvious.
+* Trying to build tools that help people think better.
+* Fascinated by code, cognition, and the weird edge cases where both break.
+* Building things for two audiences: people trying to learn and people trying to create
+* Convinced that the hardest problem in software is helping people understand things
+
+## Things I Like
+
+* Math
+* Distributed systems
+* Developer tools
+* How people learn
+* AI that helps people think better
+* Weird internet projects and conspiracies
+* Whatever rabbit hole managed to capture my attention this month
+
+## Find Me
+
+* [X / Twitter](https://x.com/aiandchai)
+* [LinkedIn](https://linkedin.com/in/swati-a-201973b7)
+* [Thita AI](https://thita.ai)
+* [Repowise](https://repowise.dev)

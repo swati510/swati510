@@ -32,7 +32,7 @@ A voice first AI tutor with a live canvas.
 
 ## Random Facts
 
-* Studied at IIIT Kota, worked at big tech.
+* Studied at IIIT Kota, worked at big tech, Ranked top 100 globally in few competitive programming challenges
 * Obsessed with making complex things feel obvious.
 * Trying to build tools that help people think better.
 * Fascinated by code, cognition, and the weird edge cases where both break.
